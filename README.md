@@ -35,7 +35,7 @@ You will need to create/implement the following endpoints and their required ser
     - Returns the renamed `Quiz`
 
 - [ ] `GET quiz/{quizName}/random`
-    - Returns a random `Quiz` from the specified quiz
+    - Returns a random `Question` from the specified quiz
 
 - [ ] `PATCH quiz/{quizName}/add`
 
