@@ -1,4 +1,4 @@
-package Exceptions;
+package com.cooksys.ftd.SpringQuizAssignment.Exceptions;
 
 public class QuestionNotFound extends Exception{
 	

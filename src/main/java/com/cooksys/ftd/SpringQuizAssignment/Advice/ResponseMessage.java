@@ -1,4 +1,4 @@
-package Advice;
+package com.cooksys.ftd.SpringQuizAssignment.Advice;
 
 public class ResponseMessage {
 
